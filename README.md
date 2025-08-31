@@ -16,6 +16,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 ## 🗂️ Daftar Sertifikat
 
 ### 📌 2023
+- [Dasar JavaScript - Dicoding](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
 - [MySQL & PHP - AlwaysNgoding](2023/mysql-php-alwaysngoding.pdf)
 - [Python Dasar (Gold) - Skilvul](2023/python-dasar-skilvul.pdf)
 - [Python Lanjutan (Gold) - Skilvul](2023/python-lanjutan-skilvul.pdf)
