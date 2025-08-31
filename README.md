@@ -20,7 +20,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [Python Dasar (Gold) - Skilvul](2023/python-dasar-skilvul.pdf)
 - [Python Lanjutan (Gold) - Skilvul](2023/python-lanjutan-skilvul.pdf)
 
-### 📌 2024
+### 📌 2025
 - [IoT - (Course Name)](2024/iot-course.pdf)
 - [RevoU Mini Course - Software Engineering](2024/revou-mini-course.pdf)
 
