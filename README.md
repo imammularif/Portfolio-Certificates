@@ -32,7 +32,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [React Dasar (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20React%20Dasar.pdf)
 - [Iot_Fundamentals (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Internet%20of%20Things%20(IoT)%20-%20Fundamentals.pdf)
 - [Data Structure with Python (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Algorithm%20%26%20Data%20Structures%20with%20Python.pdf)
-- [Google Cloud - Google | Bigquery, Analyze, Gemini, Cloud Security, Arsitecture, Data WareHouse](2025/Google%20Cloud)
+- [Google Cloud (BigQuery, Gemini, Security, Data Warehouse)](2025/Google%20Cloud)
 
 ---
 
