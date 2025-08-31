@@ -24,11 +24,14 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 
 
 ### 📌 2025
-- [IoT - skilvul](2024/iot-course.pdf)
-- [RevoU Mini Course - Software Engineering](2024/revou-mini-course.pdf)
-- [MySQL & PHP - AlwaysNgoding](2023/mysql-php-alwaysngoding.pdf)
-- [Python Dasar (Gold) - Skilvul](2023/python-dasar-skilvul.pdf)
-- [Python Lanjutan (Gold) - Skilvul](2023/python-lanjutan-skilvul.pdf)
+- [MySQL & PHP - AlwaysNgoding](2025/AlwaysNgoding)
+- [RevoU Mini Course - Software Engineering](2025/RevoU/SECC_imammularif%40gmail.com_CCSE040825-01-1-00025.pdf)
+- [Intro_Data Science - DQlab](2025/DQlab/intro_data%20science.pdf)
+- [Python Dasar (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Python%20Dasar.pdf)
+- [Python Lanjutan (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Python%20Lanjutan.pdf)
+- [React Dasar (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20React%20Dasar.pdf)
+- [Iot_Fundamentals (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Internet%20of%20Things%20(IoT)%20-%20Fundamentals.pdf)
+- [Data Structure with Python (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Algorithm%20%26%20Data%20Structures%20with%20Python.pdf)
 
 ---
 
