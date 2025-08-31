@@ -16,13 +16,17 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 ## 🗂️ Daftar Sertifikat
 
 ### 📌 2023
+- [Dasar JavaScript - Dicoding](2023/DICODING INDONESIA(JAVA SCRIPT DASAR).pdf)
+- [English - English Cafe](2023/E-Certificate Imammul Arif.pdf)
+- [MOS - Microsoft](2023/Word 2019 Associate.pdf)
+
+
+### 📌 2025
+- [IoT - skilvul](2024/iot-course.pdf)
+- [RevoU Mini Course - Software Engineering](2024/revou-mini-course.pdf)
 - [MySQL & PHP - AlwaysNgoding](2023/mysql-php-alwaysngoding.pdf)
 - [Python Dasar (Gold) - Skilvul](2023/python-dasar-skilvul.pdf)
 - [Python Lanjutan (Gold) - Skilvul](2023/python-lanjutan-skilvul.pdf)
-
-### 📌 2025
-- [IoT - (Course Name)](2024/iot-course.pdf)
-- [RevoU Mini Course - Software Engineering](2024/revou-mini-course.pdf)
 
 ---
 
@@ -35,8 +39,8 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://linkedin.com/)  
-- [GitHub](https://github.com/)  
+- [LinkedIn](https://www.linkedin.com/in/imammularif/)  
+- [GitHub](https://github.com/imammularif)  
 
 ---
 
