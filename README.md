@@ -16,7 +16,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 ## 🗂️ Daftar Sertifikat
 
 ### 📌 2023
-- [Dasar JavaScript - Dicoding](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
+- ![Dasar JavaScript - Dicoding](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
 - [English - English Cafe LV 2 & 3](2023/English%20cafe%202%263)
 - [Desain WEB - imkom_Yogyakarta](2023/Imkom_Yogyakarta/Imammul%20Arif.pdf)
 - [MOS - Microsoft](2023/MOS/Word%202019%20Associate.pdf)
