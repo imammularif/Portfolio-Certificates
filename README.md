@@ -33,7 +33,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [Iot_Fundamentals (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Internet%20of%20Things%20(IoT)%20-%20Fundamentals.pdf)
 - [Data Structure with Python (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Algorithm%20%26%20Data%20Structures%20with%20Python.pdf)
 - [Google Cloud (BigQuery, Gemini, Security, Data Warehouse)](2025/Google%20Cloud)
-- HackerRank (SQL ([Basic](2025/HackerRank/sql_basic%20certificate.pdf) | [Intermediate](2025/HackerRank/sql_intermediate%20certificate.pdf))  
+- [HackerRank (SQL](https://github.com/imammularif/Portfolio-Certificates/tree/main/2025/HackerRank) ([Basic](2025/HackerRank/sql_basic%20certificate.pdf) | [Intermediate](2025/HackerRank/sql_intermediate%20certificate.pdf))  
 
 ---
 
