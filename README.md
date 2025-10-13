@@ -2,12 +2,12 @@
 
 Selamat datang di repo ini! 🎉  
 Repo ini berisi kumpulan **sertifikat** yang saya peroleh dari berbagai course, bootcamp, dan pelatihan teknologi.  
-Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kredibilitas skill yang saya miliki untuk mengejar cita2 dan impian saya berkarir sebagai profesional IT sesuai di-bidangnya, aminn.. 
+Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kredibilitas skill yang saya miliki untuk mengejar cita2, keinginan dan impian saya berkarir sebagai profesional IT sesuai di-bidangnya, aminn.. 
 
 ---
 
 ## 🧑‍💻 Tentang Saya
-- Nama: **Imul**  
+- Nama: **Imammul arif**  
 - Bidang: Software Engineering, IoT, dan Data  
 - Target Karier: **Bekerja & berkembang di Jakarta/luar negri dalam industri digital**  
 
