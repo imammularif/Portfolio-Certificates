@@ -8,7 +8,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 
 ## 🧑‍💻 Tentang Saya
 - Nama: **Imammul arif**  
-- Bidang: Software Engineering, IoT, dan Data  
+- Bidang: Software Engineering, IoT, Data, dll.  
 - Target Karier: **Bekerja & berkembang di Jakarta/luar negri dalam industri digital**  
 
 ---
