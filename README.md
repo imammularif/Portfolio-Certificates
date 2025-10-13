@@ -9,7 +9,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 ## 🧑‍💻 Tentang Saya
 - Nama: **Imul**  
 - Bidang: Software Engineering, IoT, dan Data  
-- Target Karier: **Bekerja & berkembang di Jakarta dalam industri digital**  
+- Target Karier: **Bekerja & berkembang di Jakarta/luar negri dalam industri digital**  
 
 ---
 
