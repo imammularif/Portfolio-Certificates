@@ -2,7 +2,7 @@
 
 Selamat datang di repo ini! 🎉  
 Repo ini berisi kumpulan **sertifikat** yang saya peroleh dari berbagai course, bootcamp, dan pelatihan teknologi.  
-Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kredibilitas skill yang saya miliki.  
+Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kredibilitas skill yang saya miliki untuk mengejar cita2 dan impian saya sebagai profesional it, aminn.. 
 
 ---
 
