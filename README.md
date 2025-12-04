@@ -19,11 +19,11 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [Ikatan Mahasiswa Islam](https://github.com/imammularif/Portfolio-Certificates/blob/main/2019/IKATAN%20MAHASISWA%20ISLAM/IKA%20UTY.jpeg)
 
 ### 📌 2021
-- [Seminar : PT.XSIS](https://github.com/imammularif/Portfolio-Certificates/tree/main/2021/PT%20XSIS)
+- [SEMNAS : PT.XSIS](https://github.com/imammularif/Portfolio-Certificates/tree/main/2021/PT%20XSIS)
 
 ### 📌 2023
 - [PM(Pengabdian Masyarakat](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
-- [Seminar : Pasar Modal, Kareen.MU UGM](2023)
+- [SEMNAS : Pasar Modal, Kareen.MU UGM](2023)
 - [Dasar JavaScript - Dicoding](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
 - [English - English Cafe LV 2 & 3](2023/English%20cafe%202%263)
 - [Desain WEB - imkom_Yogyakarta](2023/Imkom_Yogyakarta/Imammul%20Arif.pdf)
