@@ -22,13 +22,13 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [SEMNAS : PT.XSIS](https://github.com/imammularif/Portfolio-Certificates/tree/main/2021/PT%20XSIS)
 
 ### 📌 2023
-- [PM(Pengabdian Masyarakat](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
+- [PM(Pengabdian Masyarakat | Jan 2023](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
 - [SEMNAS : Pasar Modal, Kareen.MU UGM](2023)
-- [Dasar JavaScript - Dicoding](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
-- [English - English Cafe LV 2 & 3](2023/English%20cafe%202%263)
-- [Desain WEB - imkom_Yogyakarta](2023/Imkom_Yogyakarta/Imammul%20Arif.pdf)
-- [MOS - Microsoft](2023/MOS/Word%202019%20Associate.pdf)
-- [EPT/TOEFL - UTY](2023/Toefl/IMAMMUL%20ARIF_SERTOEFL.pdf)
+- [Dasar JavaScript - Dicoding | Jul 2023](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
+- [English - English Cafe LV 2 & 3 |Aug 2023 - Okt 2023](2023/English%20cafe%202%263)
+- [Desain WEB - imkom_Yogyakarta | Aug 2023 - Sep 2023](2023/Imkom_Yogyakarta/Imammul%20Arif.pdf)
+- [MOS - Microsoft | Feb 2023](2023/MOS/Word%202019%20Associate.pdf)
+- [EPT/TOEFL - UTY](2023/Toefl/IMAMMUL%20ARIF_SERTOEFL.pdf) (EXP)
 
 
 ### 📌 2025
@@ -40,8 +40,8 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [React Dasar (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20React%20Dasar.pdf)
 - [Iot_Fundamentals (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Internet%20of%20Things%20(IoT)%20-%20Fundamentals.pdf)
 - [Data Structure with Python (Gold) - Skilvul](2025/Skillvul/Completion%20Certificate%20for%20Algorithm%20%26%20Data%20Structures%20with%20Python.pdf)
-- [Google Cloud (BigQuery, Gemini, Security, Data Warehouse)](2025/Google%20Cloud)
-- [HackerRank (SQL : Basic, Intermediate & Advanced)](https://github.com/imammularif/Portfolio-Certificates/tree/main/2025/HackerRank)
+- [Google Cloud (BigQuery, Gemini, Security, Data Warehouse) | Aug 2025 - Sep 2025](2025/Google%20Cloud)
+- [HackerRank (SQL : Basic, Intermediate & Advanced) | Sep 2025](https://github.com/imammularif/Portfolio-Certificates/tree/main/2025/HackerRank)
 ---
 
 ## 🛠️ Skill Terkait
