@@ -27,9 +27,9 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [SEMNAS : Pasar Modal | Apr 2023](2023)
 - [EPT/TOEFL - UTY | Apr 2023](2023/Toefl/IMAMMUL%20ARIF_SERTOEFL.pdf) (EXP)
 - [Dasar JavaScript - Dicoding | Jul 2023](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
-- [English - English Cafe LV 2 & 3 |Aug 2023 - Okt 2023](2023/English%20cafe%202%263)
 - [Desain WEB - imkom_Yogyakarta | Aug 2023 - Sep 2023](2023/Imkom_Yogyakarta/Imammul%20Arif.pdf)
 - [SEMNAS : Kareen.MU UGM | Sep 2023](2023)
+- [English - English Cafe LV 2 & 3 |Aug 2023 - Okt 2023](2023/English%20cafe%202%263)
 
 
 ### 📌 2025
