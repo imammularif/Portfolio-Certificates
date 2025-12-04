@@ -16,19 +16,20 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 ## 🗂️ Daftar Sertifikat
 
 ### 📌 2019
-- [Ikatan Mahasiswa Islam](https://github.com/imammularif/Portfolio-Certificates/blob/main/2019/IKATAN%20MAHASISWA%20ISLAM/IKA%20UTY.jpeg)
+- [Ikatan Mahasiswa Islam | Okt 2019 - Dec 2019](https://github.com/imammularif/Portfolio-Certificates/blob/main/2019/IKATAN%20MAHASISWA%20ISLAM/IKA%20UTY.jpeg)
 
 ### 📌 2021
-- [SEMNAS : PT.XSIS](https://github.com/imammularif/Portfolio-Certificates/tree/main/2021/PT%20XSIS)
+- [SEMNAS : PT.XSIS | Dec 2021](https://github.com/imammularif/Portfolio-Certificates/tree/main/2021/PT%20XSIS)
 
 ### 📌 2023
 - [PM(Pengabdian Masyarakat | Jan 2023](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
-- [SEMNAS : Pasar Modal, Kareen.MU UGM](2023)
+- [MOS - Microsoft | Feb 2023](2023/MOS/Word%202019%20Associate.pdf)
+- [SEMNAS : Pasar Modal | Apr 2023](2023)
 - [Dasar JavaScript - Dicoding | Jul 2023](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
 - [English - English Cafe LV 2 & 3 |Aug 2023 - Okt 2023](2023/English%20cafe%202%263)
 - [Desain WEB - imkom_Yogyakarta | Aug 2023 - Sep 2023](2023/Imkom_Yogyakarta/Imammul%20Arif.pdf)
-- [MOS - Microsoft | Feb 2023](2023/MOS/Word%202019%20Associate.pdf)
-- [EPT/TOEFL - UTY](2023/Toefl/IMAMMUL%20ARIF_SERTOEFL.pdf) (EXP)
+- [SEMNAS : Kareen.MU UGM | Sep 2023](2023)
+- [EPT/TOEFL - UTY | Apr 2023](2023/Toefl/IMAMMUL%20ARIF_SERTOEFL.pdf) (EXP)
 
 
 ### 📌 2025
