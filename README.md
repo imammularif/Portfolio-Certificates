@@ -15,6 +15,9 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 
 ## 🗂️ Daftar Sertifikat
 
+### 📌 2019
+- [Ikatan Mahasiswa Islam](https://github.com/imammularif/Portfolio-Certificates/blob/main/2019/IKATAN%20MAHASISWA%20ISLAM/IKA%20UTY.jpeg)
+
 ### 📌 2023
 - [Dasar JavaScript - Dicoding](2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
 - [English - English Cafe LV 2 & 3](2023/English%20cafe%202%263)
