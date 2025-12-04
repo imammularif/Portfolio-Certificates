@@ -33,7 +33,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 
 ### 📌 2025
 - [MySQL & PHP - AlwaysNgoding | Jul 2025](2025/AlwaysNgoding)
-- - [Python Lanjutan (Gold) - Skilvul | Jul 2025](2025/Skillvul/Completion%20Certificate%20for%20Python%20Lanjutan.pdf)
+- [Python Lanjutan (Gold) - Skilvul | Jul 2025](2025/Skillvul/Completion%20Certificate%20for%20Python%20Lanjutan.pdf)
 - [React Dasar (Gold) - Skilvul | Jul 2025](2025/Skillvul/Completion%20Certificate%20for%20React%20Dasar.pdf)
 - [Iot_Fundamentals (Gold) - Skilvul | Jul 2025](2025/Skillvul/Completion%20Certificate%20for%20Internet%20of%20Things%20(IoT)%20-%20Fundamentals.pdf)
 - [RevoU Mini Course - Software Engineering | Aug 2025](2025/RevoU/SECC_imammularif%40gmail.com_CCSE040825-01-1-00025.pdf)
