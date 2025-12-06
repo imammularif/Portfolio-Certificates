@@ -43,6 +43,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [Data Structure with Python (Gold) - Skilvul  | Aug 2025](2025/Skillvul/Completion%20Certificate%20for%20Algorithm%20%26%20Data%20Structures%20with%20Python.pdf)
 - [Google Cloud (BigQuery, Gemini, Security, Data Warehouse) | Aug 2025 - Sep 2025](2025/Google%20Cloud)
 - [HackerRank (SQL : Basic, Intermediate & Advanced) | Sep 2025](https://github.com/imammularif/Portfolio-Certificates/tree/main/2025/HackerRank)
+- [Introduction to Financial Literacy - Dicoding | Dec 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Dicoding/sertifikat_course_905_3053205_061225205017.pdf)
 ---
 
 ## 🛠️ Skill Terkait
