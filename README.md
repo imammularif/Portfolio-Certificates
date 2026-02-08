@@ -44,14 +44,14 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [Google Cloud (BigQuery, Gemini, Security, Data Warehouse) | Aug 2025 - Sep 2025](2025/Google%20Cloud)
 - [HackerRank (SQL : Basic, Intermediate & Advanced) | Sep 2025](https://github.com/imammularif/Portfolio-Certificates/tree/main/2025/HackerRank)
 - [Introduction to Financial Literacy - Dicoding | Dec 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Dicoding/sertifikat_course_905_3053205_061225205017.pdf)
----
+
 
 ### 📌 2026
 
-- [Belajar Dasar AI - Dicoding | Feb 2026](https://github.com/imammularif/PortfolioCertificates/blob/main/2025/Dicoding/sertifikat_course_905_3053205_061225205017.pdf)
+- [Belajar Dasar AI - Dicoding | Feb 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/AI-ENGINEERING/Belajar%20Dasar%20AI.pdf)
 
 
-
+---
 
 ## 🛠️ Skill Terkait
 - 🔵 **Python** (Dasar, Lanjutan, Data Structure)  
