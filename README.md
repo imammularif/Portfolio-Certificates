@@ -46,6 +46,13 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [Introduction to Financial Literacy - Dicoding | Dec 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Dicoding/sertifikat_course_905_3053205_061225205017.pdf)
 ---
 
+### 📌 2026
+
+- [Belajar Dasar AI - Dicoding | Feb 2026](https://github.com/imammularif/PortfolioCertificates/blob/main/2025/Dicoding/sertifikat_course_905_3053205_061225205017.pdf)
+
+
+
+
 ## 🛠️ Skill Terkait
 - 🔵 **Python** (Dasar, Lanjutan, Data Structure)  
 - 🟢 **PHP & MySQL** (CRUD, Database)  
