@@ -49,6 +49,8 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 ### 📌 2026
 
 - [Belajar Dasar AI - Dicoding | Feb 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/AI-ENGINEERING/Belajar%20Dasar%20AI.pdf)
+- [Memulai Pemrograman dengan Python - Dicoding | Feb 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/AI-ENGINEERING/Memulai%20Pemrograman%20dengan%20Python.pdf)
+- [Belajar Machine Learning untuk Pemula - Dicoding | Feb 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/AI-ENGINEERING/Belajar%20Machine%20Learning%20untuk%20Pemula.pdf)
 
 
 ---
