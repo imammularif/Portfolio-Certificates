@@ -55,8 +55,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [Membangun Aplikasi Gen AI dengan Microsoft Azure - Dicoding | Mar 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/Microsoft%20Elevate/Membangun%20Aplikasi%20Gen%20AI%20dengan%20Microsoft%20Azure.pdf)
 - [Belajar Fundamental Pemrosesan Data - Dicoding | Mar 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/Microsoft%20Elevate/Belajar%20Fundamental%20Pemrosesan%20Data.pdf)
 - [Introduction to Artificial Intelligence - IBM | Apr 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/IBM/Introduction%20to%20Artificial%20Intelligence/Certificate/AI_INTRO.png)
-
-
+- [Introduction to Generative AI - IBM | Apr 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/IBM/Introduction%20to%20Generative%20AI/Certificate/Intro_GEN_AI.png)
 
 
 ---
