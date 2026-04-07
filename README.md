@@ -57,6 +57,7 @@ Tujuannya sebagai dokumentasi perjalanan belajar saya di dunia IT serta bukti kr
 - [Introduction to Artificial Intelligence - IBM | Apr 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/IBM/Introduction%20to%20Artificial%20Intelligence/Certificate/AI_INTRO.png)
 - [Introduction to Generative AI - IBM | Apr 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/IBM/Introduction%20to%20Generative%20AI/Certificate/Intro_GEN_AI.png)
 - [AI Ethics - IBM | Apr 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/IBM/AI%20Ethics/Certificate/AI_Ethics.png)
+- [Belajar Fundamental Generative AI - Dicoding | Apr 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/Microsoft%20Elevate/Belajar%20Fundamental%20Generative%20AI.pdf)
 
 
 ---
