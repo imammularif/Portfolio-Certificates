@@ -1,4 +1,4 @@
-# 📜 MY Certificates Portfolio - Imammul_arf
+# 📜 My Certificates Portfolio - Imammul_arf
 
 Selamat datang di repo ini! 🎉  
 Repo ini berisi kumpulan **sertifikat** yang saya peroleh dari berbagai course, bootcamp, dan pelatihan teknologi.  
