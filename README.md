@@ -1,31 +1,30 @@
 # 📜 My Certificates Portfolio – Imammul Arif
 
 Selamat datang di repository ini! 🚀  
-Repository ini berisi kumpulan **sertifikat** yang saya peroleh dari berbagai course, bootcamp, dan pelatihan di bidang teknologi.
+Repository ini berisi kumpulan **sertifikat** dari berbagai course, bootcamp, dan pelatihan di bidang teknologi.
 
-Tujuan dari repo ini adalah sebagai:
-- 📌 Dokumentasi perjalanan belajar saya di dunia IT  
+Tujuan dari repo ini:
+- 📌 Dokumentasi perjalanan belajar di dunia IT  
 - 📌 Bukti kredibilitas dan perkembangan skill  
 - 📌 Portofolio pendukung untuk karier profesional di industri digital  
 
-Saya terus berkomitmen untuk berkembang dan membangun karier sebagai **IT Professional** di bidang yang saya tekuni.
+Saya berfokus untuk berkembang sebagai **Data / AI Engineer** dan berkarier di industri digital (Jakarta / International).
 
 ---
 
 ## 🧑‍💻 About Me
 - **Name:** Imammul Arif  
-- **Focus Area:** Software Engineering, Data, IoT  
-- **Career Goal:** Bekerja dan berkembang di industri digital (Jakarta / International)
+- **Focus Area:** Data, AI, Software Engineering  
+- **Career Goal:** Data / AI Engineer  
 
 ---
 
-## 🗂️ Certificates List
+## 🗂️ Certificates
 
 ## 🧠 Data, AI & Cloud
-
+- [Belajar Machine Learning untuk Pemula – Dicoding | Feb 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/AI-ENGINEERING/Belajar%20Machine%20Learning%20untuk%20Pemula.pdf)
 - [Belajar Dasar AI – Dicoding | Feb 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/AI-ENGINEERING/Belajar%20Dasar%20AI.pdf)
 - [Memulai Pemrograman dengan Python – Dicoding | Feb 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/AI-ENGINEERING/Memulai%20Pemrograman%20dengan%20Python.pdf)
-- [Belajar Machine Learning untuk Pemula – Dicoding | Feb 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/AI-ENGINEERING/Belajar%20Machine%20Learning%20untuk%20Pemula.pdf)
 - [Belajar Penerapan Data Science dengan Microsoft Fabric – Dicoding | Mar 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/Microsoft%20Elevate/Belajar%20Penerapan%20Data%20Science%20dengan%20Microsoft%20Fabric.pdf)
 - [Belajar Fundamental Pemrosesan Data – Dicoding | Mar 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/Microsoft%20Elevate/Belajar%20Fundamental%20Pemrosesan%20Data.pdf)
 - [Membangun Aplikasi Generative AI dengan Microsoft Azure – Dicoding | Mar 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/Dicoding/Microsoft%20Elevate/Membangun%20Aplikasi%20Gen%20AI%20dengan%20Microsoft%20Azure.pdf)
@@ -38,7 +37,6 @@ Saya terus berkomitmen untuk berkembang dan membangun karier sebagai **IT Profes
 ---
 
 ## 🗄️ Data & Programming Foundations
-
 - [Python Dasar (Gold) – Skilvul | Aug 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Skillvul/Completion%20Certificate%20for%20Python%20Dasar.pdf)
 - [Python Lanjutan (Gold) – Skilvul | Jul 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Skillvul/Completion%20Certificate%20for%20Python%20Lanjutan.pdf)
 - [Data Structure with Python (Gold) – Skilvul | Aug 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Skillvul/Completion%20Certificate%20for%20Algorithm%20%26%20Data%20Structures%20with%20Python.pdf)
@@ -48,7 +46,6 @@ Saya terus berkomitmen untuk berkembang dan membangun karier sebagai **IT Profes
 ---
 
 ## 💻 Web Development & Software Engineering
-
 - [Dasar JavaScript – Dicoding | Jul 2023](https://github.com/imammularif/Portfolio-Certificates/blob/main/2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
 - [Web Design – IMKOM Yogyakarta | Aug – Sep 2023](https://github.com/imammularif/Portfolio-Certificates/blob/main/2023/Imkom_Yogyakarta/Imammul%20Arif.pdf)
 - [React Dasar (Gold) – Skilvul | Jul 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Skillvul/Completion%20Certificate%20for%20React%20Dasar.pdf)
@@ -58,7 +55,6 @@ Saya terus berkomitmen untuk berkembang dan membangun karier sebagai **IT Profes
 ---
 
 ## 🌐 Additional Certifications
-
 - [Introduction to Financial Literacy – Dicoding | Dec 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Dicoding/sertifikat_course_905_3053205_061225205017.pdf)
 - [IoT Fundamentals (Gold) – Skilvul | Jul 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Skillvul/Completion%20Certificate%20for%20Internet%20of%20Things%20(IoT)%20-%20Fundamentals.pdf)
 - [MOS – Microsoft Word 2019 Associate | Feb 2023](https://github.com/imammularif/Portfolio-Certificates/blob/main/2023/MOS/Word%202019%20Associate.pdf)
@@ -66,6 +62,7 @@ Saya terus berkomitmen untuk berkembang dan membangun karier sebagai **IT Profes
 - [English Course – English Cafe Level 2 & 3 | Aug – Oct 2023](https://github.com/imammularif/Portfolio-Certificates/tree/main/2023/English%20cafe%202%263)
 - [Pengabdian Masyarakat | Jan 2023](https://github.com/imammularif/Portfolio-Certificates/blob/main/2023/Dicoding/DICODING%20INDONESIA(JAVA%20SCRIPT%20DASAR).pdf)
 - [SEMNAS & Organization Activities (2019–2023)](https://github.com/imammularif/Portfolio-Certificates/tree/main/2023)
+
 ---
 
 ## 🛠️ Related Skills
