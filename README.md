@@ -33,6 +33,7 @@ Saya berfokus untuk berkembang sebagai **Data / AI Engineer** dan berkarier di i
 - [Introduction to Generative AI – IBM | Apr 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/IBM/Introduction%20to%20Generative%20AI/Certificate/Intro_GEN_AI.png)
 - [AI Ethics – IBM | Apr 2026](https://github.com/imammularif/Portfolio-Certificates/blob/main/2026/IBM/AI%20Ethics/Certificate/AI_Ethics.png)
 - [Membangun Sistem Machine Learning | Apr - 2026](https://github.com/imammularif/My-Certificates/blob/main/2026/Dicoding/Microsoft%20Elevate/Membangun%20Sistem%20Machine%20Learning.pdf)
+- [Belajar Fundamental Deep Learning | May 2026](https://github.com/imammularif/Portfolio-Certificates/tree/main/2025/Google%20Cloud)
 - [Google Cloud (BigQuery, Gemini, Security, Data Warehouse) | Aug – Sep 2025](https://github.com/imammularif/Portfolio-Certificates/tree/main/2025/Google%20Cloud)
 
 
