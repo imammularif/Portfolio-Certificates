@@ -45,6 +45,8 @@ Saya berfokus untuk berkembang sebagai **Data / AI Engineer** dan berkarier di i
 - [Data Structure with Python (Gold) – Skilvul | Aug 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/Skillvul/Completion%20Certificate%20for%20Algorithm%20%26%20Data%20Structures%20with%20Python.pdf)
 - [SQL (Basic–Advanced) – HackerRank | Sep 2025](https://github.com/imammularif/Portfolio-Certificates/tree/main/2025/HackerRank)
 - [Introduction to Data Science – DQLab | Aug 2025](https://github.com/imammularif/Portfolio-Certificates/blob/main/2025/DQlab/intro_data%20science.pdf)
+- [Introduction to Data Analytics – RevoU | Aug 2026](https://github.com/imammularif/My-Certificates/blob/main/2026/RevoU/DAMC_imammularif%40gmail.com_DAMC-100826-01-1-00324.pdf)
+
 
 ---
 
